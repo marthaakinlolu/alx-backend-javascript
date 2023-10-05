@@ -5,7 +5,7 @@
  *   firstName: String,
  *   location: String
  * }[]} students - The list of students.
- * @author Ray Oshafi <https://github.com/DrRay21>
+ * @author Martha Akinlolu <https://github.com/marthaakinlolu>
  * @returns
  */
 export default function getListStudentIds(students) {
